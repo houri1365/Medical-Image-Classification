@@ -5,9 +5,10 @@
 
 
 > ### 📖 Overview
+
 Millions of people worldwide suffer from **diabetic retinopathy (DR)** — the leading cause of preventable blindness among working-aged adults.
 
-This project applies **deep learning classifiers** to automatically detect and classify diabetic retinopathy from **retinal fundus images**, aiming to assist early diagnosis and intervention.
+This project applies **deep learning classifiers** to automatically detect and classify diabetic retinopathy from **retinal fundus images**, aiming to assist early diagnosis and intervention. It also uses Grad_CAM to explore the inner function of different deep learning models.
 ---
 
 ### 🧠 Project Description
